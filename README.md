@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @NataliaTarasovaNatoshir
 - 👀 I’m interested in Deep Learning and Data Science in general
-- 🌱 I’m currently learning Transformers
 - 📫 How to reach me natoshir@gmail.com
 
 <!---
